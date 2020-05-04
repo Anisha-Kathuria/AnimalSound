@@ -1,6 +1,7 @@
 # Animal-Sound
 ## Prerequisites
-- [Install Linux Subsytem on Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+- Install Linux Subsytem on Windows
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
 https://www.windowscentral.com/install-windows-subsystem-linux-windows-10 
 - VSCode
 
