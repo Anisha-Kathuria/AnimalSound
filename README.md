@@ -1,12 +1,12 @@
 # Animal-Sound
 ## Prerequisites
-- (Install Linux Subsytem on Windows)[https://docs.microsoft.com/en-us/windows/wsl/install-win10]
+- [Install Linux Subsytem on Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 https://www.windowscentral.com/install-windows-subsystem-linux-windows-10 
 - VSCode
 
 ## Run
-- (Run in windows subsytem for linux on VSCode)[https://code.visualstudio.com/remote-tutorials/wsl/run-in-wsl]
-- (Copy files in the folder)
+- [Run in windows subsytem for linux on VSCode](https://code.visualstudio.com/remote-tutorials/wsl/run-in-wsl)
+- Copy files in the folder
 - Open terminal (ctrl+`)
 - Start server -> g++ AnimalServer.cpp -o AnimalServer -> ./AnimalServer 
 - Open another terminal
