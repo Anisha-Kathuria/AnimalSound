@@ -75,4 +75,6 @@ A typical message sequence would be as follows:
 
     Client: END
     Server: END: OK
+## References
+- http://man7.org/linux/man-pages/dir_all_alphabetic.html
 
